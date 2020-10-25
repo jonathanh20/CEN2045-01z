@@ -402,7 +402,7 @@ class zooAnimal {
 			  z.assignedVet = assignedVet;
 			  z.animalLoc = animalLoc;
 			  
-			  System.out.println("**NEW ANIMAL REGISTERED**")
+			  System.out.println("**NEW ANIMAL REGISTERED**");
 			  System.out.println("ID: " + z.id);
 			  System.out.println("Sex: " + z.sex);
 			  System.out.println("DOB: " + z.dateOfBirth);
